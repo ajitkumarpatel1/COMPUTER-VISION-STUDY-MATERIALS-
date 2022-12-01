@@ -1,1 +1,1 @@
-Install Anaconda and COnfigure Spyder with the help of video lecture
+Install Anaconda and COnfigure Spyder & use python 3.8 for computer vision
